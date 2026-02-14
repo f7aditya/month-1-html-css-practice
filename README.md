@@ -60,3 +60,30 @@ Next:
 
 - Learn **HTML Forms and Input Fields**
 - Build a **simple contact form page**
+
+Day 5 – Basic Webpage Structure (Navigation Layout)
+What I Learned
+
+Structuring a simple webpage using HTML containers like div and span
+
+Creating navigation links using the anchor (a) tag
+
+Adding input fields and buttons for user interaction
+
+Understanding how real websites organize header navigation and announcements
+
+What I Built
+
+Created a basic layout inspired by the Visual Studio Code website header
+
+Implemented:
+
+Navigation menu with multiple links
+
+Search input field
+
+Download button
+
+Version announcement section
+
+Practiced arranging elements to simulate a real product webpage structure
